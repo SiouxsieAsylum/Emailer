@@ -35,6 +35,14 @@ Debt email text
 Appt Text
 Offers Text
 
+## Current Priorities
+
+- Learn nodemailer
+- Underrunning script
+- String interpolation into returned email?
+- what constraints do I need?
+- Admin access
+
 
 
 
